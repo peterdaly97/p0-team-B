@@ -9,12 +9,6 @@ describe('p0TeamB()', function () {
   });
 
   it('Cubed of 2', function () {
-    expect(p0TeamB()).to.equal(8);
+    expect(p0TeamB(2)).to.equal(8);
   });
-
-  it('does something else', function () {
-    expect(true).to.equal(false);
-  });
-
-  // Add more assertions here
 });
