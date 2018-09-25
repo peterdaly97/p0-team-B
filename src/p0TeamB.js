@@ -9,7 +9,6 @@ var p0TeamB = function (list) {
   for (var i = 0; i < list.length; i++)
   {
     //Cube
-    list[i] = list[i] * list[i] * list[i];
-    list = module_first(list);
+    Cube(n);
   }
 }
