@@ -1,3 +1,9 @@
 [submodule "lib/p0-C00203711"]
 	path = lib/p0-C00203711
 	url = https://github.com/Pierce-James/p0-C00203711
+[submodule "lib/p0-team-B"]
+	path = lib/p0-team-B
+	url = https://github.com/peterdaly97/p0-team-B.git
+[submodule "lib/p0-C00206417"]
+	path = lib/p0-C00206417
+	url = https://github.com/John-OMeara/p0-C00206417.git
